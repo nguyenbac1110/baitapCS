@@ -1,0 +1,7 @@
+D:\Bai_tapCS\Baitap\bai2\bin\Debug\bai2.exe.config
+D:\Bai_tapCS\Baitap\bai2\bin\Debug\bai2.exe
+D:\Bai_tapCS\Baitap\bai2\bin\Debug\bai2.pdb
+D:\Bai_tapCS\Baitap\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+D:\Bai_tapCS\Baitap\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+D:\Bai_tapCS\Baitap\bai2\obj\Debug\bai2.exe
+D:\Bai_tapCS\Baitap\bai2\obj\Debug\bai2.pdb

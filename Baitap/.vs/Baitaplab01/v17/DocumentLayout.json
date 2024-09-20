@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai_tapCS\\Baitap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\khvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\khvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\khnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\khnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 384,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\Program.cs",
+              "RelativeDocumentMoniker": "bai5\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\Program.cs",
+              "RelativeToolTip": "bai5\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAuwGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:23:45.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KHVN.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\KHVN.cs",
+              "RelativeDocumentMoniker": "bai5\\KHVN.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\KHVN.cs",
+              "RelativeToolTip": "bai5\\KHVN.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:16:02.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KHNN.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\KHNN.cs",
+              "RelativeDocumentMoniker": "bai5\\KHNN.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\KHNN.cs",
+              "RelativeToolTip": "bai5\\KHNN.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:15:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\KhachHang.cs",
+              "RelativeDocumentMoniker": "bai5\\KhachHang.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\KhachHang.cs",
+              "RelativeToolTip": "bai5\\KhachHang.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:15:21.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
