@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\app_start\\mydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\app_start\\mydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\banhangs\\mathangbannhieunhat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\banhangs\\mathangbannhieunhat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\controllers\\banhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\controllers\\banhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\banhangs\\tongsoluongbantheonhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\banhangs\\tongsoluongbantheonhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\banhangs\\banhangvuotdinhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\banhangs\\banhangvuotdinhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\banhangs\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\banhangs\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\views\\banhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\views\\banhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\models\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\models\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\models\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\models\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|d:\\bai_tapcs\\btvn_tuan6 -30_10_2024\\btvn_tuan6 -30_10_2024\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F136-2178-4FC0-A568-486BB43C0688}|BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024.csproj|solutionrelative:btvn_tuan6 -30_10_2024\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatHangBanNhieuNhat.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\MatHangBanNhieuNhat.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\MatHangBanNhieuNhat.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\MatHangBanNhieuNhat.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\MatHangBanNhieuNhat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:06:09.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BanHangVuotDinhMuc.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\BanHangVuotDinhMuc.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\BanHangVuotDinhMuc.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\BanHangVuotDinhMuc.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\BanHangVuotDinhMuc.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T10:01:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:55:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Details.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Details.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:55:18.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Delete.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:55:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TongSoLuongBanTheoNhanVien.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\TongSoLuongBanTheoNhanVien.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\TongSoLuongBanTheoNhanVien.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\TongSoLuongBanTheoNhanVien.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\TongSoLuongBanTheoNhanVien.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:55:02.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Search.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Search.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Search.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Search.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:45:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:40:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Index.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Index.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\NhanViens\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:39:56.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Index.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Index.cshtml",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Views\\BanHangs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:39:27.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbInitializer.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\App_Start\\MyDbInitializer.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\App_Start\\MyDbInitializer.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\App_Start\\MyDbInitializer.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\App_Start\\MyDbInitializer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:31:54.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:31:22.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BanHangsController.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Controllers\\BanHangsController.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Controllers\\BanHangsController.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Controllers\\BanHangsController.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Controllers\\BanHangsController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAQwKcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:31:09.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Controllers\\NhanViensController.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Controllers\\NhanViensController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:30:55.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Global.asax.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Global.asax.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Global.asax.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:29:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Models\\ShopDbContext.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\ShopDbContext.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Models\\ShopDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:27:28.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BanHang.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\BanHang.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Models\\BanHang.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\BanHang.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Models\\BanHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:20:53.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Models\\SanPham.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\SanPham.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:19:25.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BTVN_tuan6 -30_10_2024\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\Bai_tapCS\\BTVN_tuan6 -30_10_2024\\BTVN_tuan6 -30_10_2024\\Models\\NhanVien.cs",
+              "RelativeToolTip": "BTVN_tuan6 -30_10_2024\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:17:36.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

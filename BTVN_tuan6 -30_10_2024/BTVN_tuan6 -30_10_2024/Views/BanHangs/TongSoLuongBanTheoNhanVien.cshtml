@@ -1,0 +1,16 @@
+﻿@model IEnumerable<BTVN_tuan6__30_10_2024.Models.BanHang>
+
+@{
+    ViewBag.Title = "TongSoLuongBanTheoNhanVien";
+}
+
+<h2>TongSoLuongBanTheoNhanVien</h2>
+<h3>Thông tin từ ViewBag: </h3>
+<ul>
+    @for (int i = 0; i < ViewBag.NhanVien.Count; i++)
+    {
+        <li>@ViewBag.NhanVien[i] : @ViewBag.TongSoLuongBan[i] </li>
+
+    }
+</ul>
+

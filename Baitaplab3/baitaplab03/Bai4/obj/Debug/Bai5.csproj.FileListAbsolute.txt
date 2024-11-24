@@ -1,0 +1,7 @@
+D:\Bai_tapCS\Baitaplab3\baitaplab03\Bai4\bin\Debug\Bai4.exe.config
+D:\Bai_tapCS\Baitaplab3\baitaplab03\Bai4\bin\Debug\Bai4.exe
+D:\Bai_tapCS\Baitaplab3\baitaplab03\Bai4\bin\Debug\Bai4.pdb
+D:\Bai_tapCS\Baitaplab3\baitaplab03\Bai4\obj\Debug\Bai5.csproj.AssemblyReference.cache
+D:\Bai_tapCS\Baitaplab3\baitaplab03\Bai4\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+D:\Bai_tapCS\Baitaplab3\baitaplab03\Bai4\obj\Debug\Bai4.exe
+D:\Bai_tapCS\Baitaplab3\baitaplab03\Bai4\obj\Debug\Bai4.pdb

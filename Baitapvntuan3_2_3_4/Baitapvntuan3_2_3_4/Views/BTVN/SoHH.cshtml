@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "SoHH";
+    int? n = ViewBag.n;
+    List<int> sohh = new List<int>();
+    bool ktrashh(int number)
+    {
+        int sum = 0;
+        for (int i = 1; i <= number/2; i++)
+        {
+            if(number % i == 0)
+            {
+                sum += i;
+            }
+        }
+        return sum == number;
+    }
+    if (n.HasValue)
+    {
+        for (int i = 1; i < n.Value; i++)
+        {
+            if (ktrashh(i))
+            {
+                sohh.Add(i);
+            }
+        }
+    }
+}
+
+<h2>SoHH</h2>
+@{ Html.BeginForm("NhanDL_SoHH","BTVN",FormMethod.Post);}
+<br />
+<label>Nhập số n</label>
+<input type="number" id="n" name="n" required />
+<br />
+<input type="submit" value="Tìm số hoàn hảo" />
+@{ Html.EndForm();}
+@if (n.HasValue)
+            {
+                <h3>Kết quả:</h3>
+                if(sohh.Count > 0)
+                {
+                    <p>Các sô hoàn hảo trong khoảng từ 1 đến @n là: @string.Join(", ",sohh) </p>
+    }
+    else
+                {
+        <p>Không có số hoản hảo trong khoảng từ 1 đến @n</p>
+                }
+            }
+

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Bai_tapCS\\Baitap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AE4918F-EBB6-4BA3-B599-6A8B74E54B12}|bai1\\bai1.csproj|d:\\bai_tapcs\\baitap\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE4918F-EBB6-4BA3-B599-6A8B74E54B12}|bai1\\bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE4918F-EBB6-4BA3-B599-6A8B74E54B12}|bai1\\bai1.csproj|d:\\bai_tapcs\\baitap\\bai1\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE4918F-EBB6-4BA3-B599-6A8B74E54B12}|bai1\\bai1.csproj|solutionrelative:bai1\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|D:\\Bai_tapCS\\Baitap\\bai5\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\khvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|D:\\Bai_tapCS\\Baitap\\bai5\\khvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\khvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|d:\\bai_tapcs\\baitap\\bai5\\khnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|D:\\Bai_tapCS\\Baitap\\bai5\\khnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61551367-324D-48DB-8B73-F3078F6476F7}|bai5\\bai5.csproj|solutionrelative:bai5\\khnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF7439E-66CB-4F23-A085-8B954B59871F}|bai3\\bai3.csproj|D:\\Bai_tapCS\\Baitap\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF7439E-66CB-4F23-A085-8B954B59871F}|bai3\\bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150D1357-7365-430C-A430-CFFF5F82514D}|bai4\\bai4.csproj|D:\\Bai_tapCS\\Baitap\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150D1357-7365-430C-A430-CFFF5F82514D}|bai4\\bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,53 +52,100 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai1\\Program.cs",
+              "RelativeDocumentMoniker": "bai1\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai1\\Program.cs",
+              "RelativeToolTip": "bai1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:17:05.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhanSo.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai1\\PhanSo.cs",
+              "RelativeDocumentMoniker": "bai1\\PhanSo.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai1\\PhanSo.cs",
+              "RelativeToolTip": "bai1\\PhanSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:17:04.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai3\\Program.cs",
+              "RelativeDocumentMoniker": "bai3\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai3\\Program.cs",
+              "RelativeToolTip": "bai3\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:04:33.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai4\\Program.cs",
+              "RelativeDocumentMoniker": "bai4\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai4\\Program.cs",
+              "RelativeToolTip": "bai4\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:03:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\Program.cs",
               "RelativeDocumentMoniker": "bai5\\Program.cs",
               "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\Program.cs",
               "RelativeToolTip": "bai5\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAuwGgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T13:23:45.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "KHVN.cs",
               "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\KHVN.cs",
               "RelativeDocumentMoniker": "bai5\\KHVN.cs",
               "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\KHVN.cs",
               "RelativeToolTip": "bai5\\KHVN.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:16:02.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T13:16:02.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "KHNN.cs",
               "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\KHNN.cs",
               "RelativeDocumentMoniker": "bai5\\KHNN.cs",
               "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\KHNN.cs",
               "RelativeToolTip": "bai5\\KHNN.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:15:52.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T13:15:52.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\Bai_tapCS\\Baitap\\bai5\\KhachHang.cs",
               "RelativeDocumentMoniker": "bai5\\KhachHang.cs",
               "ToolTip": "D:\\Bai_tapCS\\Baitap\\bai5\\KhachHang.cs",
               "RelativeToolTip": "bai5\\KhachHang.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:15:21.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T13:15:21.893Z"
             }
           ]
         }

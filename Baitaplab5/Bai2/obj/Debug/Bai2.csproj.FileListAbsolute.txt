@@ -1,0 +1,10 @@
+D:\Bai_tapCS\Baitaplab5\Bai2\bin\Debug\Bai2.exe.config
+D:\Bai_tapCS\Baitaplab5\Bai2\bin\Debug\Bai2.exe
+D:\Bai_tapCS\Baitaplab5\Bai2\bin\Debug\Bai2.pdb
+D:\Bai_tapCS\Baitaplab5\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+D:\Bai_tapCS\Baitaplab5\Bai2\obj\Debug\Bai2.Form1.resources
+D:\Bai_tapCS\Baitaplab5\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\Bai_tapCS\Baitaplab5\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\Bai_tapCS\Baitaplab5\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\Bai_tapCS\Baitaplab5\Bai2\obj\Debug\Bai2.exe
+D:\Bai_tapCS\Baitaplab5\Bai2\obj\Debug\Bai2.pdb

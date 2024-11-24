@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\baitapvntuan3_2_3_4\\views\\btvn\\gptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|solutionrelative:baitapvntuan3_2_3_4\\views\\btvn\\gptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|d:\\bai_tapcs\\baitapvntuan3_2_3_4\\baitapvntuan3_2_3_4\\controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|solutionrelative:baitapvntuan3_2_3_4\\controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\baitapvntuan3_2_3_4\\views\\btvn\\sohh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|solutionrelative:baitapvntuan3_2_3_4\\views\\btvn\\sohh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\baitapvntuan3_2_3_4\\models\\ptb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|solutionrelative:baitapvntuan3_2_3_4\\models\\ptb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\baitapvntuan3_2_3_4\\views\\btvn\\socp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{885D81E2-C2EC-4055-B21B-E490464878F2}|Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4.csproj|solutionrelative:baitapvntuan3_2_3_4\\views\\btvn\\socp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 384,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gptb2.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Views\\BTVN\\gptb2.cshtml",
+              "RelativeDocumentMoniker": "Baitapvntuan3_2_3_4\\Views\\BTVN\\gptb2.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Views\\BTVN\\gptb2.cshtml",
+              "RelativeToolTip": "Baitapvntuan3_2_3_4\\Views\\BTVN\\gptb2.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T08:52:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ptb2.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Models\\ptb2.cs",
+              "RelativeDocumentMoniker": "Baitapvntuan3_2_3_4\\Models\\ptb2.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Models\\ptb2.cs",
+              "RelativeToolTip": "Baitapvntuan3_2_3_4\\Models\\ptb2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:50:15.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoCP.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Views\\BTVN\\SoCP.cshtml",
+              "RelativeDocumentMoniker": "Baitapvntuan3_2_3_4\\Views\\BTVN\\SoCP.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Views\\BTVN\\SoCP.cshtml",
+              "RelativeToolTip": "Baitapvntuan3_2_3_4\\Views\\BTVN\\SoCP.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T08:37:58.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoHH.cshtml",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Views\\BTVN\\SoHH.cshtml",
+              "RelativeDocumentMoniker": "Baitapvntuan3_2_3_4\\Views\\BTVN\\SoHH.cshtml",
+              "ToolTip": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Views\\BTVN\\SoHH.cshtml",
+              "RelativeToolTip": "Baitapvntuan3_2_3_4\\Views\\BTVN\\SoHH.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T08:26:19.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BTVNController.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Controllers\\BTVNController.cs",
+              "RelativeDocumentMoniker": "Baitapvntuan3_2_3_4\\Controllers\\BTVNController.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitapvntuan3_2_3_4\\Baitapvntuan3_2_3_4\\Controllers\\BTVNController.cs",
+              "RelativeToolTip": "Baitapvntuan3_2_3_4\\Controllers\\BTVNController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:25:42.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

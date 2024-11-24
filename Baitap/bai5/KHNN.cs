@@ -11,8 +11,7 @@ namespace bai5
         public string QuocTich { get; set; }
         public KHNN() { }
 
-        public KHNN(string maKH, int soLuong, double donGia, DateTime ngayHoaDon, string hoTenKH, string quocTich)
-            : base(maKH, soLuong, donGia, ngayHoaDon, hoTenKH)
+        public KHNN(string maKH, int soLuong, double donGia, DateTime ngayHoaDon, string hoTenKH, string quocTich): base(maKH, soLuong, donGia, ngayHoaDon, hoTenKH)
         {
             QuocTich = quocTich;
         }

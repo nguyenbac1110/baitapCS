@@ -1,0 +1,52 @@
+﻿
+@model Baitapvntuan3_2_3_4.Models.ptb2
+@{
+    ViewBag.Title = "gptb2";
+}
+
+<h2>gptb2</h2>
+@{ Html.BeginForm("NhanDL_gptb2", "BTVN", FormMethod.Post);}
+@Html.LabelFor(m => m.a)
+@Html.EditorFor(m => m.a)
+<br />
+@Html.LabelFor(m => m.b)
+@Html.EditorFor(m => m.b)
+<br />
+@Html.LabelFor(m => m.c)
+@Html.EditorFor(m => m.c)
+<br />
+<input type="submit" value="Giải phương trình" />
+@{ Html.EndForm();}
+
+@if (ViewBag.a != null && ViewBag.b != null && ViewBag.c != null)
+{
+    double a = (double)ViewBag.a;
+    double b = (double)ViewBag.b;
+    double c = (double)ViewBag.c;
+    double delta = b * b - 4 * a * c;
+    if (a == 0)
+    {
+        double x1 = -b / c;
+        <h3>Kết quả</h3>
+        <p> Phương trình có nghiệm x = @x1</p>
+    }
+    else if (delta == 0)
+    {
+        double x2 = -b / (2 * a);
+        <h3>Kết quả</h3>
+        <p> Phương trình có nghiệm kép x1 = x2 = @x2</p>
+    }
+    else if (delta < 0)
+    {
+        <h3>Kết quả</h3>
+        <p> Phương trình vô nghiệm</p>
+    }
+    else
+    {
+        double x3 = (-b + Math.Sqrt(delta))/(2*a);
+        double x4 = (-b - Math.Sqrt(delta)) / (2 * a);
+        <h3>Kết quả</h3>
+        <p> Phương trình có nghiệm kép x1 = @x3, x2 = @x4</p>
+    }
+}
+

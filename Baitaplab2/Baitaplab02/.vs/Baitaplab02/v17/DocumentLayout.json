@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA9790A-724C-4136-A8DD-3652A2C6258D}|Bai5\\Bai5.csproj|d:\\bai_tapcs\\baitaplab2\\baitaplab02\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA9790A-724C-4136-A8DD-3652A2C6258D}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3A2093-3172-4C5A-BE73-D63E698DBE06}|Bai4\\Bai4.csproj|D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3A2093-3172-4C5A-BE73-D63E698DBE06}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F89E157-1BDB-4C04-85DE-A39419EDF705}|Bai3\\Bai3.csproj|D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F89E157-1BDB-4C04-85DE-A39419EDF705}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD671D5A-0DB5-43D3-8F6D-888427BCB8F7}|Bai2\\Bai2.csproj|D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD671D5A-0DB5-43D3-8F6D-888427BCB8F7}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD671D5A-0DB5-43D3-8F6D-888427BCB8F7}|Bai2\\Bai2.csproj|D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\bai2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD671D5A-0DB5-43D3-8F6D-888427BCB8F7}|Bai2\\Bai2.csproj|solutionrelative:bai2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD671D5A-0DB5-43D3-8F6D-888427BCB8F7}|Bai2\\Bai2.csproj|D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\bai2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD671D5A-0DB5-43D3-8F6D-888427BCB8F7}|Bai2\\Bai2.csproj|solutionrelative:bai2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F63D918-F08E-4467-93D4-ED59F6D08889}|Bai1\\Bai1.csproj|D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F63D918-F08E-4467-93D4-ED59F6D08889}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F63D918-F08E-4467-93D4-ED59F6D08889}|Bai1\\Bai1.csproj|D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\bai1\\sinhvienuneti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F63D918-F08E-4467-93D4-ED59F6D08889}|Bai1\\Bai1.csproj|solutionrelative:bai1\\sinhvienuneti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai5\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai5\\Program.cs",
+              "RelativeToolTip": "Bai5\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:19:35.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:11:25.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:04:02.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai2\\Student.cs",
+              "RelativeDocumentMoniker": "Bai2\\Student.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai2\\Student.cs",
+              "RelativeToolTip": "Bai2\\Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:59:00.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai2\\Person.cs",
+              "RelativeDocumentMoniker": "Bai2\\Person.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai2\\Person.cs",
+              "RelativeToolTip": "Bai2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:58:38.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:57:46.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhVienUneti.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai1\\SinhVienUneti.cs",
+              "RelativeDocumentMoniker": "Bai1\\SinhVienUneti.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai1\\SinhVienUneti.cs",
+              "RelativeToolTip": "Bai1\\SinhVienUneti.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:54:43.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "D:\\Bai_tapCS\\Baitaplab2\\Baitaplab02\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:54:02.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

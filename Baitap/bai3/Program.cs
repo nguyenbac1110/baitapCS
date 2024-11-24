@@ -49,42 +49,18 @@ namespace bai3
 
         private static void SapxepMang()
         {
-            Console.WriteLine("Sap xep theo:");
-            Console.WriteLine("1. Tuoi");
-            Console.WriteLine("2. Can nang");
-            Console.WriteLine("3. Chieu cao");
-            int tieuChi = int.Parse(Console.ReadLine());
-
+            
             for (int i = 0; i < danhSach.Length - 1; i++)
             {
                 for (int j = i + 1; j < danhSach.Length; j++)
                 {
-                    bool swap = false;
-                    switch (tieuChi)
-                    {
-                        case 1:
-                            if (danhSach[i].Tuoi > danhSach[j].Tuoi)
-                                swap = true;
-                            break;
-                        case 2:
-                            if (danhSach[i].CanNang > danhSach[j].CanNang)
-                                swap = true;
-                            break;
-                        case 3:
-                            if (danhSach[i].ChieuCao > danhSach[j].ChieuCao)
-                                swap = true;
-                            break;
-                        default:
-                            Console.WriteLine("Tieu chi khong hop le!");
-                            return;
-                    }
-
-                    if (swap)
+                    if (danhSach[i].Tuoi > danhSach[j].Tuoi)
                     {
                         VanDongVien temp = danhSach[i];
                         danhSach[i] = danhSach[j];
                         danhSach[j] = temp;
                     }
+                    
                 }
             }
             HienThiMang();

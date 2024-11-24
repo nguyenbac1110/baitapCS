@@ -12,8 +12,7 @@ namespace bai5
         public int DinhMuc { get; set; }
         public KHVN() { }
 
-        public KHVN(string maKH, int soLuong, double donGia, DateTime ngayHoaDon, string hoTenKH, string loaiKH, int dinhMuc)
-            : base(maKH, soLuong, donGia, ngayHoaDon, hoTenKH)
+        public KHVN(string maKH, int soLuong, double donGia, DateTime ngayHoaDon, string hoTenKH, string loaiKH, int dinhMuc): base(maKH, soLuong, donGia, ngayHoaDon, hoTenKH)
         {
             LoaiKH = loaiKH;
             DinhMuc = dinhMuc;

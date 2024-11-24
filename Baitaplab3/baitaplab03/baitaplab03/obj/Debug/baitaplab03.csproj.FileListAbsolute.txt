@@ -1,0 +1,10 @@
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\bin\Debug\baitaplab03.exe.config
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\bin\Debug\baitaplab03.exe
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\bin\Debug\baitaplab03.pdb
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\obj\Debug\baitaplab03.csproj.AssemblyReference.cache
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\obj\Debug\baitaplab03.Form1.resources
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\obj\Debug\baitaplab03.Properties.Resources.resources
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\obj\Debug\baitaplab03.csproj.GenerateResource.cache
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\obj\Debug\baitaplab03.csproj.CoreCompileInputs.cache
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\obj\Debug\baitaplab03.exe
+D:\Bai_tapCS\Baitaplab3\baitaplab03\baitaplab03\obj\Debug\baitaplab03.pdb

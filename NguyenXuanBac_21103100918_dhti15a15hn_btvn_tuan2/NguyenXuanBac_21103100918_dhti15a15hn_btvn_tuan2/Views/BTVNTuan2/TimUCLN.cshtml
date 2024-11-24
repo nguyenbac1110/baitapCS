@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+   
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TimUCLN</title>
+</head>
+<body>
+    <div>
+        @{ Html.BeginForm("TimUCLN", "BTVNTuan2", FormMethod.Post);}
+        @Html.Label("Mời nhập số thứ nhất") <br />
+        @Html.TextBox("a") <br />
+        @Html.Label("Mời nhập số thứ hai") <br />
+        @Html.TextBox("b") <br />
+        <input type="submit" value="Submit" />
+        @{ Html.EndForm();}
+        @if (ViewBag.Result != null)
+        {
+            <h2>@ViewBag.Result</h2>
+        }
+    </div>
+</body>
+</html>

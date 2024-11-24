@@ -1,0 +1,10 @@
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\bin\Debug\Bai2_21103100918.exe.config
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\bin\Debug\Bai2_21103100918.exe
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\bin\Debug\Bai2_21103100918.pdb
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\obj\Debug\Bai2_21103100918.csproj.AssemblyReference.cache
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\obj\Debug\Bai2_21103100918.Form1.resources
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\obj\Debug\Bai2_21103100918.Properties.Resources.resources
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\obj\Debug\Bai2_21103100918.csproj.GenerateResource.cache
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\obj\Debug\Bai2_21103100918.csproj.CoreCompileInputs.cache
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\obj\Debug\Bai2_21103100918.exe
+D:\Bai_tapCS\Baitaplab6_21103100918_nguyenxuanbac\Bai2_21103100918\obj\Debug\Bai2_21103100918.pdb

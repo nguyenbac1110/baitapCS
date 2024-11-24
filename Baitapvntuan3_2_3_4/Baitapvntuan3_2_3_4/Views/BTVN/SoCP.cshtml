@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "SoCP";
+    string mangnhap = ViewBag.mangnhap;
+    List<int> socp = new List<int>();
+    if (!string.IsNullOrEmpty(mangnhap))
+    {
+        var mang = mangnhap.Split(',').Where(x => !string.IsNullOrWhiteSpace(x)).Select(int.Parse).ToList();
+        bool ktrascp(int number)
+        {
+            int sqrt = (int)Math.Sqrt(number);
+            return sqrt * sqrt == number;
+        }
+        foreach (var so in mang)
+        {
+            if (ktrascp(so))
+            {
+                socp.Add(so);
+            }
+        }
+    }
+}
+
+<h2>SoCP</h2>
+
+@{ Html.BeginForm("NhanDL_SoCP","BTVN", FormMethod.Post);}
+<br />
+<label>Nhập các phần tử của mảng</label>
+<input type="text" id="mangnhap" name="mangnhap" value="@mangnhap" required />
+<br />
+<input type="submit" value="Tìm số chính phương" />
+@{ Html.EndForm();}
+
+@if (!string.IsNullOrEmpty(mangnhap))
+{
+    <h3>Kết quả:</h3>
+    if (socp.Count > 0)
+    {
+        <p>Các sô chính phương trong mảng là: @string.Join(", ", socp)</p>
+    }
+    else
+    {
+        <p>Không có số chính phương nào trong mảng!</p>
+    }
+}
